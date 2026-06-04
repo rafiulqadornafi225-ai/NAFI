@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant Workspace",
+  "description": "An interactive, multi-mode AI Tutoring Companion designed to help users learn, solve formulas, debug code, analyze data, refine writing, and conduct deep research with structured, high-quality responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
